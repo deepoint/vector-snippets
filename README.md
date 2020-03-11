@@ -41,5 +41,6 @@ sudo systemctl enable vector.service
 sudo systemctl start vector.service
 ```
 If you want to check the status of your service:
-
+```
 sudo systemctl status vector.service
+```
